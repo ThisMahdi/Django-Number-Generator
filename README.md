@@ -1,6 +1,6 @@
 # Django-Number-Generator
 
-The simplest number generator with Django Framework ;D
+The simplest number generator with Django Framework ;D (Really the simplest!)
 
 ## What you need?
 
