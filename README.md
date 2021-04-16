@@ -28,4 +28,6 @@ be sure to add it in "INSTALLED_APPS" section.
 
 ### Download required files
 
+- [x] Remember to add files exactly like i have created in diffrent directories.
+
 Have Fun!
