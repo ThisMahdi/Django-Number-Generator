@@ -4,7 +4,7 @@ The simplest number generator with Django Framework ;D
 
 ## What you need?
 
-In order to use this code, these modules needs to be installed on your operating system.
+In order to use this web application, these framework/library needs to be installed on your operating system.
 
 * `Django 3 (surely!)`
 
