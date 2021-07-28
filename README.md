@@ -1,4 +1,4 @@
-# Django-Number-Generator
+# Django Number Generator
 
 The simplest number generator with Django Framework ;D (Really the simplest!)
 
